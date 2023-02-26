@@ -114,13 +114,13 @@ npm install concurrently --save
 yarn create react-app react-express
 ```
 
-1. 프로젝트 시작
+2. 프로젝트 시작
 
-   ```bash
-   yarn add express
-   ```
+ ```bash
+ yarn add express
+ ```
 
-2. 프로젝트 터미널에서 express 라이브러리 설치
+3. 프로젝트 터미널에서 express 라이브러리 설치
 
 위 과정을 마무리 하면 프로젝트 폴더 안에 client와 server 폴더 두개가 생긴다. 다음으로 Express 를 사용하기 위한 기본구조 & 테스트 파일을 작성해본다. 리액트가 3000번 포트를 사용하므로 다른 포트를 사용하는데 일반적으로 5000번 포트를 주로 사용한다.
 
